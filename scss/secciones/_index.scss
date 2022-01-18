@@ -1,0 +1,16 @@
+p{
+    color: red;
+}
+// 1- Anidacion y hover con anidacion
+.contenedor{
+    background-color: yellow;
+    .titulo{
+        color: violet;
+        &:hover{
+            color: white;
+        }
+    }
+    &:hover{
+        color: coral;
+    }
+}

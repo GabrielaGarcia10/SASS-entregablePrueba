@@ -1,0 +1,9 @@
+
+// 2: Particion e Importaciones - Acá dejo de tener todo en una sola hoja de estilos de css. tengo una hoja scss para cada seccion (o como lo quiera subdividir) y las importo todas al main del scss.
+
+@import './variables/colores';
+@import './utilidades/header';
+@import './secciones/index';
+
+//3: Variables Es una forma de guardar valores. SE IMPORTAN ARRIBA DE TODAS LAS DEMAS IMPORTACIONES SIEMPRE
+
