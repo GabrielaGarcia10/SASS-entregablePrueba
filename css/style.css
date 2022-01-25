@@ -16,7 +16,8 @@ p {
 .contenedor {
   background-color: yellow; }
   .contenedor .titulo {
-    color: violet; }
+    color: violet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
     .contenedor .titulo:hover {
       color: white; }
   .contenedor:hover {
